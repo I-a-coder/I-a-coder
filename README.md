@@ -54,7 +54,7 @@ Tech Blogger who turns complex code into simple stories
 
 ## Want to Know More? 📄
 <div align="center">
-  <a href="https://github.com/I-a-coder/I-a-coder/blob/main/Sadia_Shafeeq_Resume.pdf">
+  <a href="https://github.com/I-a-coder/I-a-coder/blob/main/Sadia Shafeeq_Resume.pdf">
     <img src="https://img.shields.io/badge/📋_View_My_Complete_Resume-9B59B6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 </div>
