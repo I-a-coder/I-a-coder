@@ -24,7 +24,7 @@ const sadia = {
 
 AI Student at Information Technology University, Lahore  
 Freelance Developer & Technical Content Writer  
-Founder of CODE CRUSHERS - A coding community platform  
+Founder and CEO of CODE CRUSHERS - A coding community platform  
 Tech Blogger who turns complex code into simple stories
 
 ## My Tech Arsenal 🛠️
