@@ -12,7 +12,6 @@ const sadia = {
     role: "AI Student & Full Stack Developer",
     location: "Lahore, Pakistan",
     education: "BS Artificial Intelligence @ ITU",
-    passion: ["Coding", "AI", "Writing", "Coffee"],
     openTo: "Software Engineering, Full Stack Development",
     funFact: "I'm just a girl, but still catches bugs!",
 };
@@ -20,7 +19,7 @@ const sadia = {
 
 <br clear="right"/>
 
-**Software Engineering Student | Full Stack Developer | Tech Enthusiast**
+**AI Student | Full Stack Developer | Tech Enthusiast**
 
 AI Student at Information Technology University, Lahore  
 Freelance Developer & Technical Content Writer  
